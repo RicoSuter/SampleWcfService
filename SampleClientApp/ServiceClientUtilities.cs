@@ -3,6 +3,7 @@ using System.ServiceModel;
 
 namespace SampleClientApp
 {
+    /// <summary>Provides utility methods for WCF service clients. </summary>
     public static class ServiceClientUtilities
     {
         /// <summary>Disposes the service client. </summary>
